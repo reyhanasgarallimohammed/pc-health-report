@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+windows_health_report_*.txt
+health_report_*.txt

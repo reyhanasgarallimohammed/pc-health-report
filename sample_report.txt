@@ -1,0 +1,26 @@
+WINDOWS PC HEALTH REPORT
+========================
+Example report — all computer details and measurements below are fictional.
+
+Computer name: EXAMPLE-PC
+Operating system: Microsoft Windows 11 Pro
+Architecture: 64-bit
+CPU usage: 8%
+Total RAM: 16.00 GB
+Free RAM: 7.50 GB
+RAM usage: 53.1%
+
+FIXED DRIVE HEALTH
+------------------
+Drive C: | Total: 475.00 GB | Free: 120.00 GB | Used: 74.7%
+Drive D: | Total: 931.00 GB | Free: 500.00 GB | Used: 46.3%
+
+HEALTH CHECKS
+-------------
+RAM: OK
+CPU: OK
+Drive C:: OK
+Drive D:: OK
+
+Note: These checks are basic indicators, not a complete
+hardware diagnostic or a guarantee of system health.
